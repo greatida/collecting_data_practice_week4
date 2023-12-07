@@ -15,7 +15,7 @@ Columns as Variables.
 |     imdb_votes    | The number of votes received by the TV show or movie on IMDB |     number    |
 # Research Questions
 1. Create a visualization that shows the development of TV show and movie industry.
-2. Which TV Show or Movie has the highest score among the years?
+2. Which TV show or movie has the highest score among the years?
 3. How many TV shows and  movies are available on Netflix?
 4. Which type attracts audience most?
 # Source
