@@ -21,3 +21,5 @@ Columns as Variables.
 # Source
 Kaggle
 https://www.kaggle.com/datasets/thedevastator/netflix-imdb-scores/
+# Credit
+Dataset originally created by: Back 2 Viz Basics.
